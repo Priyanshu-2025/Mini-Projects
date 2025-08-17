@@ -1,6 +1,6 @@
 # 🐍 Python Mini Projects
 
-![Python Mini Projects Banner](A_2D_digital_graphic_banner_for_"Python_Mini_Proje.png)
+![Python Mini Projects Banner](python-mini-projects-banner.png)
 
 Welcome to **Python Mini Projects** 🎉 — a collection of beginner-to-intermediate level projects written in Python.  
 These projects are designed to help you practice programming concepts, problem-solving, and logic building in a fun way 🚀.  
@@ -50,7 +50,7 @@ Here are the mini projects currently available in this repository:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Mini-Projects.git
+   git clone https://github.com/Priyanshu-2025/Mini-Projects.git
    ```
 2. Navigate into the folder:
    ```bash
@@ -73,5 +73,5 @@ Want to add your own mini project? Fork this repo, add your project, and create 
 This project is open-source under the MIT License. You’re free to use, modify, and share with proper attribution.
 
 ## 🙌 Acknowledgements
-Thanks to the Python community for inspiring these fun beginner projects.
+Thanks to the Python community for inspiring these fun beginner projects.  
 Made with ❤️ by Priyanshu.
